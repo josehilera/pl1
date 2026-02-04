@@ -29,8 +29,12 @@ El resumen del diseño es el siguiente:
 ### Medidas estadísticas
 En la tabla 1 se muestran los resultados de las medidas estadísticas de centralización, dispersión, localización y forma más relevantes, para el total de alumnos de la muestra, y para los alumnos de los turnos de mañana y tarde.
 
-**Tabla 1.** Medidas Estadísticas Descriptivas
 
+
+<div align="center">
+
+**Tabla 1.** Medidas Estadísticas Descriptivas
+   
 | Medida                        | Todos       |   Mañana      |    Tarde      |
 |-------------------------------|-------------|-----------------|-----------------|
 | **Tamaño muestra**            | 74 alumnos | 42 alumnos      | 32 alumnos      |
@@ -54,10 +58,13 @@ En la tabla 1 se muestran los resultados de las medidas estadísticas de central
 | **Otras medidas**             |             |                 |                 |
 | Valores inferiores a la media  | 45 (61%) |	24 (57%) |	18 (56%)   |
 | Valores superiores a la media  | 29 (39%) |	18 (43%) |	14 (44%) |
+</div>
 
 ### Tablas de contingencia
 En la tabla 2 se muestra la tabla de contingencia para las variables nota y turno en el caso de agrupar las notas en 6 intervalos. En la tabla se representa con f las frecuencias absolutas y con h las frecuencias relativas.
 
+<div align="center">
+   
 **Tabla 2.** Tabla de contingencia para nota y turno (con 6 intervalos)
 
 | NOTA/TURNO | Mañana  | Tarde  |  f<sub>NOTA</sub> |  h<sub>NOTA</sub>    |
@@ -71,11 +78,15 @@ En la tabla 2 se muestra la tabla de contingencia para las variables nota y turn
 |**f<sub>TURNO</sub>**|	42|	32|	74|	|
 |**h<sub>TURNO</sub>**|	0.57|	0.43|	|1|
 
+</div>
+
 ### Diagramas
 En la figura 1 se muestra el porcentaje de alumnos por turno, el número total de alumnos es 74.
 
-<p align="center" width="80%">
-     <img width="33%" src="figura1.jpg"><br>    
-   <em>Figura 1.</em> Diagrama con el porcentaje de alumnos por grupo
-</p>
+<div align="center">
+   
+![](figura1.jpg)
+
+**Figura 1.** Diagrama con el porcentaje de alumnos por grupo
+</div>
 
