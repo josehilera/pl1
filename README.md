@@ -73,10 +73,9 @@ En la tabla 2 se muestra la tabla de contingencia para las variables nota y turn
 
 ### Diagramas
 En la figura 1 se muestra el porcentaje de alumnos por turno, el número total de alumnos es 74.
- 
-**Figura 1.** Diagrama con el porcentaje de alumnos por grupo
-![Tarta](figura1.jpg)
 
-
-
+<p align="center" width="80%">
+     <img width="33%" src="figura1.jpg"><br>    
+   <em>Figura 1.</em> Diagrama con el porcentaje de alumnos por grupo
+</p>
 
