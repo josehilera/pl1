@@ -34,7 +34,6 @@ En la tabla 1 se muestran los resultados de las medidas estadísticas de central
 <div align="center">
 
 **Tabla 1.** Medidas Estadísticas Descriptivas
-   
 | Medida                        | Todos       |   Mañana      |    Tarde      |
 |-------------------------------|-------------|-----------------|-----------------|
 | **Tamaño muestra**            | 74 alumnos | 42 alumnos      | 32 alumnos      |
@@ -66,7 +65,6 @@ En la tabla 2 se muestra la tabla de contingencia para las variables nota y turn
 <div align="center">
    
 **Tabla 2.** Tabla de contingencia para nota y turno (con 6 intervalos)
-
 | NOTA/TURNO | Mañana  | Tarde  |  f<sub>NOTA</sub> |  h<sub>NOTA</sub>    |
 |--------------|--------------|------------|---------|----------|
 |**[5, 6)**|	0|	2|	2|	0.03|
